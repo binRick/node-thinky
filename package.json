@@ -1,0 +1,22 @@
+{
+  "name": "node-thinky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/node-thinky.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-thinky/issues"
+  },
+  "homepage": "https://github.com/binRick/node-thinky#readme",
+  "dependencies": {
+    "thinky": "^2.0.6"
+  }
+}
